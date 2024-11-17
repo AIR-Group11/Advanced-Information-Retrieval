@@ -1,1 +1,1 @@
-# Advances-Information-Retrieval
+# Advanced-Information-Retrieval
