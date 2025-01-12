@@ -77,15 +77,15 @@ The project uses the **50 Years of Pop Music Lyrics** dataset, sourced from [Wal
    - GPT API Key: Provide your key in the configuration file or environment variable.
    - Pinecone API Key: Set up and provide your Pinecone API credentials.
 
-### Contributors
-
-**_Naida Nožić_**: Dataset processing, embedding vectors, Pinecone integration, re-ranking, and related tasks.
-**_Petra Buršić_**: Dataset processing, embedding vectors, Pinecone integration, re-ranking, and related tasks.
-**_Faruk Šahat_**: Evaluation and results.
-**_Maksim Madžar_**: GPT integration for user query refinement and fine-tuning.
-
 ### Future work
 
 - Expand the dataset to include more diverse genres and languages.
 - Integrate a user interface for easier access and usability.
 - Try additional fine-tuning approaches to improve retrieval results.
+
+### Contributors
+
+- **Naida Nožić**: Dataset processing, embedding vectors, Pinecone integration, re-ranking, and related tasks.
+- **Petra Buršić**: Dataset processing, embedding vectors, Pinecone integration, re-ranking, and related tasks.
+- **Faruk Šahat**: Evaluation and results.
+- **Maksim Madžar**: GPT integration for user query refinement and fine-tuning.
